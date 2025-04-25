@@ -1,4 +1,5 @@
 pyrogram
+apscheduler
 pymongo
 flask
 gunicorn
