@@ -1,6 +1,8 @@
 pyrogram
-apscheduler
+tgcrypto
 pymongo
+python-dotenv
+apscheduler
 flask
 gunicorn
 requests
